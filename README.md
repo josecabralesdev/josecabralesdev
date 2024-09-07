@@ -9,6 +9,8 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=josecabralesdev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=josecabralesdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
